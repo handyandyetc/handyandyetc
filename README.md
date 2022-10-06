@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @handyandyetc
+- 👀 I’m interested in data, software engineering, machine learning, data engineering, sewing, music, nature, etc.
+- 🌱 I’m currently learning Docker, Prefect, SQL
+- 💞️ I’m looking to collaborate on anything really. This account is specifically to directly work with my subscribers/followers.
+    - There's a lot of really bad software being written (I'm not immune either) and I'm hoping to spark meaningful discussion about best practice and standardization amongst new coders.
+    - Disclaimer: I am not an expert coder but I hold in high regard community, honesty, integrity, consideration, transparency, respect.
+- 📫 How to reach me - here is probably the best place as my other accounts are nsfw, unless you're comfortable with that. My other accounts are the same handle.
